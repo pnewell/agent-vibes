@@ -583,7 +583,7 @@ agent-vibes/
 
 ## Community
 
-Join the discussion and share your thoughts about Agent Vibes on [LINUX DO](https://linux.do/t/topic/1814066), or feel free to report bugs and feedback on
+Join the discussion and share your feedback about Agent Vibes on [LINUX DO](https://linux.do/t/topic/1814066), or feel free to report bugs on
 [GitHub Issues](https://github.com/funny-vibes/agent-vibes/issues).
 
 ## Contributing
