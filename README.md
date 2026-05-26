@@ -101,7 +101,7 @@ native client compatibility for Cursor and native upstream fidelity for Antigrav
 
 ## Quick Start
 
-### Install Option 1: Prompt Install (Recommended for non-developers)
+### Install Option 1: Prompt Install (Recommended for beginners)
 
 Copy the prompt below and send it to any LLM (ChatGPT / Claude / Gemini, etc.).
 It will guide you through the entire installation and configuration process,
